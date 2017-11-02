@@ -7,18 +7,20 @@ public class ForLoops {
 
     public static void main(String[] args) {
         int i;
+        int y;
+        ForLoops forEachLoop = new ForLoops();
 
         for (i = 0; i < 5; i++) ;
         System.out.println("For example " + i);
     }
 
-    public static void methodExample (int y) {
+    public static void forEachLoop(int y) {
         int nums[] = {1, 2, 3, 4, 5};
         int sum = 0;
 
-        for (int x : nums)
-
-        sum += x;
+        for (int x : nums) {
+            sum += x;
             System.out.println(nums);
+        }
     }
 }

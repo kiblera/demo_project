@@ -6,8 +6,14 @@ package sprint_1.kib15;
 //  should then use the the class1 object to call one or more non-static methods in class2 and class3.
 
 public class Classes {
-    public static void main(String[] args) {
 
+        public static void main(String[] args) {
+
+//            Classes class1 = new Classes;
+//            Classes class2 = new Classes;
+//            Classes class3 = new Classes;
+//
+//
+//        }
     }
-
 }

@@ -2,14 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0c8fb322-e29b-49b6-953a-4b9c494fca5c" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/sprint_1/kib14/Methods.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/sprint_1/kib14/Methods2.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/sprint_1/kib15/Classes.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/sprint_1/kib19/Inheritance.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/demo_project/sprint_1/kib4/ForLoops.class" afterPath="$PROJECT_DIR$/out/production/demo_project/sprint_1/kib4/ForLoops.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/demo_project/sprint_1/kib4/SwitchCase.class" afterPath="$PROJECT_DIR$/out/production/demo_project/sprint_1/kib4/SwitchCase.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/sprint_1/kib33/CreateArrays.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/sprint_1/kib33/CreateArrays2.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/sprint_1/kib4/SwitchCase.java" afterPath="$PROJECT_DIR$/src/sprint_1/kib4/SwitchCase.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -41,7 +36,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Methods2.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Methods2.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/sprint_1/kib14/Methods2.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="130">
@@ -50,6 +45,26 @@
                 <element signature="e#1079#1080#0" expanded="true" />
                 <element signature="e#1129#1130#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CreateArrays.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/sprint_1/kib33/CreateArrays.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="12" column="54" lean-forward="false" selection-start-line="12" selection-start-column="54" selection-end-line="12" selection-end-column="54" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CreateArrays2.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/sprint_1/kib33/CreateArrays2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="314">
+              <caret line="23" column="12" lean-forward="false" selection-start-line="23" selection-start-column="12" selection-end-line="23" selection-end-column="12" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -145,12 +160,13 @@
         <option value="$PROJECT_DIR$/src/sprint_1/kib19/Inheritance.java" />
         <option value="$PROJECT_DIR$/src/sprint_1/kib14/Methods.java" />
         <option value="$PROJECT_DIR$/src/sprint_1/kib14/Methods2.java" />
+        <option value="$PROJECT_DIR$/src/sprint_1/kib33/CreateArrays.java" />
+        <option value="$PROJECT_DIR$/src/sprint_1/kib33/CreateArrays2.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="10" />
-    <option name="y" value="23" />
+    <option name="y" value="24" />
     <option name="width" value="1260" />
     <option name="height" value="724" />
   </component>
@@ -215,6 +231,13 @@
               <item name="sprint_1" type="462c0819:PsiDirectoryNode" />
               <item name="kib19" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="demo_project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="demo_project" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="sprint_1" type="462c0819:PsiDirectoryNode" />
+              <item name="kib33" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -262,7 +285,45 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Methods2">
+  <component name="RunManager" selected="Application.CreateArrays2">
+    <configuration name="CreateArrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="sprint_1.kib33.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="sprint_1.kib33.CreateArrays" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="demo_project" />
+      <envs />
+    </configuration>
+    <configuration name="CreateArrays2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="sprint_1.kib33.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="sprint_1.kib33.CreateArrays2" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="demo_project" />
+      <envs />
+    </configuration>
     <configuration name="ForLoops" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -309,44 +370,6 @@
         </pattern>
       </extension>
       <option name="MAIN_CLASS_NAME" value="sprint_1.kib14.Methods2" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="demo_project" />
-      <envs />
-    </configuration>
-    <configuration name="SwitchCase" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="sprint_1.kib4.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="sprint_1.kib4.SwitchCase" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="demo_project" />
-      <envs />
-    </configuration>
-    <configuration name="WhileLoops" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="sprint_1.kib4.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="sprint_1.kib4.WhileLoops" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -440,19 +463,19 @@
       <listeners />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.WhileLoops" />
-      <item index="1" class="java.lang.String" itemvalue="Application.SwitchCase" />
-      <item index="2" class="java.lang.String" itemvalue="Application.ForLoops" />
-      <item index="3" class="java.lang.String" itemvalue="Application.Methods2" />
-      <item index="4" class="java.lang.String" itemvalue="Application.Methods" />
+      <item index="0" class="java.lang.String" itemvalue="Application.ForLoops" />
+      <item index="1" class="java.lang.String" itemvalue="Application.Methods2" />
+      <item index="2" class="java.lang.String" itemvalue="Application.Methods" />
+      <item index="3" class="java.lang.String" itemvalue="Application.CreateArrays" />
+      <item index="4" class="java.lang.String" itemvalue="Application.CreateArrays2" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.Methods2" />
-        <item index="1" class="java.lang.String" itemvalue="Application.Methods" />
-        <item index="2" class="java.lang.String" itemvalue="Application.ForLoops" />
-        <item index="3" class="java.lang.String" itemvalue="Application.WhileLoops" />
-        <item index="4" class="java.lang.String" itemvalue="Application.SwitchCase" />
+        <item index="0" class="java.lang.String" itemvalue="Application.CreateArrays2" />
+        <item index="1" class="java.lang.String" itemvalue="Application.CreateArrays" />
+        <item index="2" class="java.lang.String" itemvalue="Application.Methods2" />
+        <item index="3" class="java.lang.String" itemvalue="Application.Methods" />
+        <item index="4" class="java.lang.String" itemvalue="Application.ForLoops" />
       </list>
     </recent_temporary>
   </component>
@@ -470,12 +493,12 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="10" y="23" width="1260" height="724" extended-state="1" />
+    <frame x="0" y="24" width="1260" height="724" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297546" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -491,7 +514,7 @@
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.398773" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -842,6 +865,22 @@
             <element signature="e#1079#1080#0" expanded="true" />
             <element signature="e#1129#1130#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sprint_1/kib33/CreateArrays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="54" lean-forward="false" selection-start-line="12" selection-start-column="54" selection-end-line="12" selection-end-column="54" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sprint_1/kib33/CreateArrays2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="314">
+          <caret line="23" column="12" lean-forward="false" selection-start-line="23" selection-start-column="12" selection-end-line="23" selection-end-column="12" />
+          <folding />
         </state>
       </provider>
     </entry>

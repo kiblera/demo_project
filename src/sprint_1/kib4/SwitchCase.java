@@ -1,6 +1,5 @@
 package sprint_1.kib4;
 
-
 // Create a class with a single main method that demonstrates the full use of a switch case.
 
 import java.util.Scanner;
@@ -37,7 +36,7 @@ public class SwitchCase {
                 dayString = "Saturday";
                 break;
             default:
-                dayString = "invalid day";
+                dayString = "Invalid day";
                 break;
         }
         System.out.println(dayString);

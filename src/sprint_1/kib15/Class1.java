@@ -8,24 +8,24 @@ package sprint_1.kib15;
 public class Class1 {
 
     public static void main(String[] args) {
-        int i = 0;
-        int a = 10;
-
+        String firstname;
+        String lastname;
+        
         Class1 object1 = new Class1();
         object1.newMethod();
 
-//        Class1 object2 = new Class1();
-//        object2.anotherMethod();
-//        object2.i = 0;
-//
-//        Class1 object3 = new Class1();
-//        object3.oneMoreMethod();
-//        object3.a = 10;
+        Class2 object2 = new Class2();
+        object2.setFirstname("Andrea");
+        object2.setLastname("Kibler");
+        object2.anotherMethod();
 
+        Class3 object3 = new Class3();
+        object3.setFirstname("Gioh");
+        object3.setLastname("Hrndz");
+        object3.oneMoreMethod();
     }
 
     private void newMethod() {
-        System.out.println("Here is a new method.");
+        System.out.println("Here we are!");
     }
 }
-

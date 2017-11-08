@@ -1,12 +1,30 @@
 package sprint_1.kib15;
 
-public class Class3 {
+class Class3 {
 
-    int a;
+    private String firstname;
+    private String lastname;
 
-    private void oneMoreMethod(int a) {
+    public String getFirstname() {
+        return firstname;
+    }
 
-        System.out.println("Example text from Class 3.");
+    public void setFirstname(String firstname) {
+        this.firstname = firstname;
+    }
 
+    public String getLastname() {
+        return lastname;
+    }
+
+    public void setLastname(String lastname) {
+        this.lastname = lastname;
+    }
+
+    void oneMoreMethod() {
+        this.firstname = firstname;
+        this.lastname = lastname;
+
+        System.out.println(firstname + " " + lastname);
     }
 }

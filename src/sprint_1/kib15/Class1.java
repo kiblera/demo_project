@@ -10,7 +10,7 @@ public class Class1 {
     public static void main(String[] args) {
         String firstname;
         String lastname;
-        
+
         Class1 object1 = new Class1();
         object1.newMethod();
 

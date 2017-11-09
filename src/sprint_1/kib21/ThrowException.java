@@ -7,11 +7,19 @@ package sprint_1.kib21;
 //        -The main method should either handle this exception or throw it to the JVM.
 //        -Make sure you understand the results of both.
 
-public class ThrowException extends Exception {
+public class ThrowException {
     public static void main(String[] args) {
+        try{
+            int i = someMethod();
+        } catch (ArithmeticException ae) {
+                throw ae;
+            }
+            System.out.println("After try/catch");
+            }
 
-//        Exception {
-//
-//    }
+    public static int someMethod() throws ArithmeticException {
+        throw new ArithmeticException();
     }
 }
+
+
